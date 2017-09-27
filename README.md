@@ -1,0 +1,1 @@
+It uses for loop and if statement
